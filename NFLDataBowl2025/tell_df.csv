@@ -1,0 +1,34 @@
+"Team","Variable","Value","Total Plays","Pass Rate","Difference From Baseline"
+"ATL","Receiver Alignment at Snap","2x2",22,"72.7%",30.3
+"ATL","Offensive Formation","SHOTGUN",20,"85%",42.6
+"BAL","In Motion at Snap","FALSE",23,"73.9%",24
+"CAR","In Motion at Snap","FALSE",20,"85%",27.9
+"CLE","In Motion at Snap","FALSE",23,"73.9%",25.3
+"DAL","Receiver Alignment at Snap","2x2",20,"90%",39.8
+"DAL","In Motion at Snap","TRUE",24,"87.5%",37.3
+"DAL","Position in Motion","WR",23,"91.3%",41.1
+"DAL","Offensive Formation","SHOTGUN",28,"85.7%",35.5
+"DET","Receiver Alignment at Snap","2x2",19,"78.9%",23.1
+"DET","In Motion at Snap","FALSE",26,"76.9%",21.1
+"HOU","In Motion at Snap","FALSE",20,"80%",20.1
+"JAX","In Motion at Snap","FALSE",20,"80%",25.1
+"LV","Receiver Alignment at Snap","2x2",21,"81%",16.5
+"MIA","Receiver Alignment at Snap","2x2",35,"85.7%",24.9
+"MIA","Receiver Alignment at Snap","3x1",28,"78.6%",17.8
+"MIA","In Motion at Snap","FALSE",23,"82.6%",21.8
+"MIA","In Motion at Snap","TRUE",53,"79.2%",18.4
+"MIA","Position in Motion","WR",45,"86.7%",25.9
+"MIA","Offensive Formation","SHOTGUN",59,"88.1%",27.3
+"MIN","In Motion at Snap","FALSE",21,"95.2%",33.6
+"MIN","Position in Motion","TE",18,"83.3%",21.7
+"MIN","Offensive Formation","SHOTGUN",25,"92%",30.4
+"NYJ","Receiver Alignment at Snap","2x2",29,"79.3%",20
+"NYJ","In Motion at Snap","FALSE",30,"86.7%",27.4
+"NYJ","Position in Motion","TE",19,"84.2%",24.9
+"NYJ","Offensive Formation","SHOTGUN",30,"76.7%",17.4
+"PIT","In Motion at Snap","FALSE",25,"84%",22.1
+"SF","Receiver Alignment at Snap","2x2",27,"70.4%",15.7
+"SF","In Motion at Snap","FALSE",26,"73.1%",18.4
+"SF","Offensive Formation","SHOTGUN",29,"72.4%",17.7
+"TB","Receiver Alignment at Snap","2x2",33,"84.8%",16.8
+"TB","In Motion at Snap","FALSE",18,"83.3%",15.3
